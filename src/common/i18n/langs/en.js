@@ -1,0 +1,56 @@
+const en = {
+    'About':'About',
+    'Products':'Products',
+    'Partners':'Partners',
+    'Docs':'Docs',
+
+    'Investors': 'Backers',
+    'A multi skilled team': 'A multi skilled team',
+    'Built from the ground up': 'Built from the ground up',
+
+    'cooperative partner': 'Cooperative partner',
+    'Win-win cooperation': 'Win-win cooperation',
+    'FAQ': 'FAQ',
+    'frequently asked questions': 'frequently asked questions',
+    'AI-led professional trading strategies': 'One-stop Financial Services Agreement',
+    'A one-stop financial service platform focusing on crypto decentralized derivatives.': 'A one-stop financial service platform focusing on crypto decentralized derivatives.',
+    'Why Choose': 'Why Choose',
+    'ProTradex': 'ProTradex',
+    'It is backed by and focused on the crypto decentralized derivatives market; it is a strategy aggregator that achieves optimal returns through intelligent scheduling. As a result, it boasts a promising future.': 'It is backed by and focused on the crypto decentralized derivatives market; it is a strategy aggregator that achieves optimal returns through intelligent scheduling. As a result, it boasts a promising future.',
+    'It has mature and proven liquidity market-making strategies, which are calculated by big data and automatically executed by AI systems. ProTradex offers stable returns with low risks.': 'It has mature and proven liquidity market-making strategies, which are calculated by big data and automatically executed by AI systems. ProTradex offers stable returns with low risks.',
+    'Through low thresholds, high yield returns and various incentive mechanisms, it aggregates long-tail funds and provides liquidity services to the market through a sizable amount of funds.': 'Through low thresholds, high yield returns and various incentive mechanisms, it aggregates long-tail funds and provides liquidity services to the market through a sizable amount of funds.',
+    'Through a highly innovative derivative mechanism, it is making blue chip NFT a derivative investment underlier to release more value stored in blue chip NFTs.': 'Through a highly innovative derivative mechanism, it is making blue chip NFT a derivative investment underlier to release more value stored in blue chip NFTs.',
+    'Mission': 'Mission',
+    'Is committed to promoting the better development of crypto decentralized derivatives market and allowing more long-tail investors to participate in the dividends of the on-chain derivatives market development.': 'ProTradex aims to be the new standard for the DeFi protocol, which focuses on providing liquidity to the on-chain financial markets and creating a fully decentralized financial system for Metaverse assets. Our ultimate goal is for everyone to become a central banker, a banker, an investment banker in the ProTradex ecosystem, allowing them to set interest rates, execute QE/QT and underwrite credit risk.',
+    'Decentralized NFTliquidity protocol offering NFT lending and loan services': 'Decentralized NFT liquidity protocol offering NFT lending and loan services',
+    'ProTradex currently offers a decentralized NFT-based leveraged mortgage lending protocol, which is different from the current NFT lending platforms on the market. ProTradex not only allows users to stake NFT assets into a pool of funds to obtain crypto assets such as USDT, but also supports them to stake crypto assets in the agreement to borrow funds through leverage and use them to purchase popular NFT within the platform and make profits when the price of NFT rises.': 'ProTradex currently offers a decentralized NFT-based leveraged mortgage lending protocol, which is different from the current NFT lending platforms on the market. ProTradex not only allows users to stake NFT assets into a pool of funds to obtain crypto assets such as USDT, but also supports them to stake crypto assets in the agreement to borrow funds through leverage and use them to purchase popular NFT within the platform and make profits when the price of NFT rises.',
+    'Currently, we offer three types of lending agreements for users to choose from. They are perpetual loans, flip loans and bonds, which differ in loan-to-value (LTV) ratio, interest rate, and lending cycle.': 'Currently, we offer three types of lending agreements for users to choose from. They are perpetual loans, flip loans and bonds, which differ in loan-to-value (LTV) ratio, interest rate, and lending cycle.',
+    'Perpetual loan': 'Perpetual loan',
+    'Perpetual NFT loan has no loan cycle and is available to users at a dynamic low interest rate, but users need to pay attention to the staking rate of funds to prevent liquidation.': 'Perpetual NFT loan has no loan cycle and is available to users at a dynamic low interest rate, but users need to pay attention to the staking rate of funds to prevent liquidation.',
+    'Flip loan': 'Flip loan',
+    'Short-term loan cycle with fixed interest rate, and can be redeemed before maturity.': 'Short-term loan cycle with fixed interest rate, and can be redeemed before maturity.',
+    'Bonds': 'Bonds',
+    'Offers a relatively high loan-to-value (LTV) ratio, fixed short-term loan period, and can be redeemed before maturity.': 'Offers a relatively high loan-to-value (LTV) ratio, fixed short-term loan period, and can be redeemed before maturity.',
+    'Launch App': 'Launch App',
+    'Market maker services focusing on the liquidity of': 'Market maker services focusing on the liquidity of',
+    'crypto decentralized derivatives': 'crypto decentralized derivatives',
+    'Coming soon': 'Coming soon',
+    'Market maker services are like crypto savings accounts in cyberspace, where users deposit assets. Market maker services send these assets to run in the crypto decentralized derivatives ecosystem (liquidity/DEX, etc.), and then return the earnings to the user. However, unlike bank accounts (which traditionally have a utilization rate of less than 10%), Our market maker services use efficient operations and extremely fast strategies, which means that users can achieve a 50%+ utilization rate of their assets, resulting in the highest possible return ratios.': 'Market maker services are like crypto savings accounts in cyberspace, where users deposit assets. Market maker services send these assets to run in the crypto decentralized derivatives ecosystem (liquidity/DEX, etc.), and then return the earnings to the user. However, unlike bank accounts (which traditionally have a utilization rate of less than 10%), Our market maker services use efficient operations and extremely fast strategies, which means that users can achieve a 50%+ utilization rate of their assets, resulting in the highest possible return ratios.',
+
+
+    '什么是ProTradex平台？': 'What is ProTradex platform?',
+    'Protradexx是一个以链上衍生品赛道为基础的一站式金融服务平台，专注于为链上资产提供流动性，提升资金利用率，它服务的资产类型即包括NFT也包括FT资产。': 'ProTradex is a one-stop financial services platform specialized in the crypto decentralized derivatives segment. It focuses on providing liquidity to crypto assets and enhancing capital utilization (including NFT & FT assets).',
+    '相比其他平台，ProTradex的优势是什么？': 'What are the advantages of ProTradex compared with other platforms?',
+    'ProTradex的平台优势有以下几点：背靠且专注具备发展潜力与前景的链上衍生品市场，通过智能调度达到最优收益的策略聚合器。': 'ProTradex is backed by and focused on the crypto decentralized derivatives market; it is a strategy aggregator that achieves optimal returns through intelligent scheduling. As a result, it boasts a promising future.',
+    '具备成熟且经过验证的流动性做市策略，并通过大数据进行计算，AI系统自动执行，收益稳定且低风险。': 'ProTradex has mature and proven liquidity market-making strategies, which are calculated by big data and automatically executed by AI systems. ProTradex offers stable returns with low risks.',
+    '通过低门槛、高收益回报以及多种激励机制，将长尾资金汇聚，通过可观规模的资金为市场提供流动性服务。': 'Through low thresholds, high yield returns and various incentive mechanisms, it aggregates long-tail funds and provides liquidity services to the market through a sizable amount of funds.',
+    '通过极具创新性的衍生品机制，正在让蓝筹NFT成为衍生投资标的，并让更多的蓝筹NFT中储存的价值得到释放。': 'Through a highly innovative derivative mechanism, it is making blue chip NFT a derivative investment underlier to release more value stored in blue chip NFTs.',
+    'ProTradex的愿景是什么？': 'What is ProTradex committed to?',
+    'ProTradex致力于解决目前衍生品市场所面临的流动性问题，推动更多的链上衍生品协议的积极发展，并在我们的帮助下共同实现盈利。推动链上衍生品赛道积极正向的发展，是我们的愿景。': "Based on ProTradex, we are committed to: Solving the liquidity problems currently faced by the derivatives market and boosting the development of more crypto decentralized derivatives protocols to realize collective profitability. It is our vision to drive the positive development of the crypto decentralized derivatives sector.Based on the derivatives ecology with innovation, we will further enhance the capital utilization rate of the market by participating in the crypto decentralized derivatives market and provide a substantial income for these long-tail users to further stimulate and mobilize the flow of the market\'s sunk capital, so that more long-tail investors can participate in the development dividends of the crypto decentralized derivatives market.",
+    '如何参与ProTradex的产品？': 'How can I participate in ProTradex products?',
+    '请关注ProTradex官方渠道以获取产品相关的进展。': "Please follow ProTradex's official channels for product-related progress.",
+
+
+}
+
+export default en;

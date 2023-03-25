@@ -1,0 +1,197 @@
+$sw-xs: 0;
+$sw-sm: 576px;
+$sw-md: 768px;
+$sw-lg: 992px;
+$sw-xl: 1200px;
+
+@media (min-width: $sw-xs) {
+	.nav-bar-color{
+		background: #FFFFFF;
+	}
+	.nav-header{
+		background: #FFFFFF;
+		box-shadow: none;
+		border-radius: 0;
+	}
+	.font-14-10 {
+		// 响应式h1标签
+		font-size: 10px;
+	}
+	.font-16-14 {
+		// 响应式h1标签
+		font-size: 14px;
+	}
+	.font-18-12 {
+		// 响应式h1标签
+		font-size: 12px;
+	}
+	.font-18-14 {
+		// 响应式h1标签
+		font-size: 14px;
+	}
+	.font-20-14 {
+		// 响应式h1标签
+		font-size: 14px;
+	}
+	.font-24-20 {
+		// 响应式h1标签
+		font-size: 20px;
+	}
+	.font-30-24-16 {
+		// 响应式h1标签
+		font-size: 16px;
+	}
+	.font-40-30-26 {
+		// 响应式h1标签
+		font-size: 26px;
+	}
+	.font-50-40-36 {
+		// 响应式h1标签
+		font-size: 36px;
+	}
+}
+
+@media (min-width: $sw-sm) {
+	.nav-bar-color{
+		background: #FFFFFF;
+	}
+	.nav-header{
+		background: #FFFFFF;
+		box-shadow: none;
+		border-radius: 0;
+	}
+	.font-14-10 {
+		// 响应式h1标签
+		font-size: 10px;
+	}
+	.font-16-14 {
+		// 响应式h1标签
+		font-size: 14px;
+	}
+	.font-18-12 {
+		// 响应式h1标签
+		font-size: 12px;
+	}
+	.font-18-14 {
+		// 响应式h1标签
+		font-size: 14px;
+	}
+	.font-20-14 {
+		// 响应式h1标签
+		font-size: 14px;
+	}
+	.font-24-20 {
+		// 响应式h1标签
+		font-size: 20px;
+	}
+	.font-30-24-16 {
+		// 响应式h1标签
+		font-size: 16px;
+	}
+	.font-40-30-26 {
+		// 响应式h1标签
+		font-size: 26px;
+	}
+	.font-50-40-36 {
+		// 响应式h1标签
+		font-size: 36px;
+	}
+}
+
+@media (min-width: $sw-md) {
+	.nav-bar-color{
+		background: #F2F2FC;
+	}
+	.nav-header{
+		background: #FFFFFF;
+		box-shadow: 0px 3px 29px 0px rgba(19,19,20,0.09);
+		border-radius: 30px;
+	}
+	.font-14-10 {
+		// 响应式h1标签
+		font-size: 14px;
+	}
+	.font-16-14 {
+		// 响应式h1标签
+		font-size: 16px;
+	}
+	.font-18-12 {
+		// 响应式h1标签
+		font-size: 18px;
+	}
+	.font-18-14 {
+		// 响应式h1标签
+		font-size: 18px;
+	}
+	.font-20-14 {
+		// 响应式h1标签
+		font-size: 20px;
+	}
+	.font-24-20 {
+		// 响应式h1标签
+		font-size: 24px;
+	}
+	.font-30-24-16 {
+		// 响应式h1标签
+		font-size: 24px;
+	}
+	.font-40-30-26 {
+		// 响应式h1标签
+		font-size: 30px;
+	}
+	.font-50-40-36 {
+		// 响应式h1标签
+		font-size: 40px;
+	}
+}
+
+@media (min-width: $sw-lg) {
+	.nav-bar-color{
+		background: #F2F2FC;
+	}
+	.nav-header{
+		background: #FFFFFF;
+		box-shadow: 0px 3px 29px 0px rgba(19,19,20,0.09);
+		border-radius: 30px;
+	}
+	.font-14-10 {
+		// 响应式h1标签
+		font-size: 14px;
+	}
+	.font-16-14 {
+		// 响应式h1标签
+		font-size: 16px;
+	}
+	.font-18-12 {
+		// 响应式h1标签
+		font-size: 18px;
+	}
+	.font-18-14 {
+		// 响应式h1标签
+		font-size: 18px;
+	}
+	.font-20-14 {
+		// 响应式h1标签
+		font-size: 20px;
+	}
+	.font-24-20 {
+		// 响应式h1标签
+		font-size: 24px;
+	}
+	.font-30-24-16 {
+		// 响应式h1标签
+		font-size: 30px;
+	}
+	.font-40-30-26 {
+		// 响应式h1标签
+		font-size: 40px;
+	}
+	.font-50-40-36 {
+		// 响应式h1标签
+		font-size: 50px;
+	}
+}
+body::-webkit-scrollbar {
+	width: 0;
+}
+
